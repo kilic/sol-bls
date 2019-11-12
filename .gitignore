@@ -1,0 +1,7 @@
+venv
+build
+.pytest*
+__pycache__
+.history
+reports
+scripts
